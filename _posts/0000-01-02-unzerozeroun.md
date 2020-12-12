@@ -2,5 +2,5 @@
 layout: slide
 title: "Hello World"
 ---
-Hi there!
+Yahoo!
 Use the left arrow to go back!
